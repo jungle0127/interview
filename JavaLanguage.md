@@ -7,3 +7,5 @@
 ## ConcurrentHashMap,HashMap
 
 ## 注解在什么时候作用于代码（运行时，编译时？）
+
+## decimal, float,区别
